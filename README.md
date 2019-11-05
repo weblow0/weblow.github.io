@@ -1,2 +1,2 @@
-# weblow0.github.io
+# weblow.github.io
 hello, here is ekwa's website
